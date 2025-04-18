@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 863772db02f192f49a41e295ad2da45a, type: 3}
+  m_Name: 2 Text
+  m_EditorClassIdentifier: 
+  type: 1
+  content: "Instructions:  In a shaker filled with ice, combine dark rum, cr\xE8me
+    de cassis, and lime juice. Shake gently until well chilled \u2014 not violently,
+    like a storm, but soft, like a whisper at midnight.  Strain into a chilled highball
+    glass filled with fresh ice.  Slowly pour the tonic water over the back of a
+    spoon to create a gentle gradient of color \u2014 it should look like a dusk
+    sky melting into starlight.  Float a single barspoon of absinthe over the top.
+    Let it sit for a few seconds, then swirl \u2014 just once.  Garnish with a dried
+    orange wheel and a piece of star anise. The aroma will bloom gently with each
+    sip.  "
